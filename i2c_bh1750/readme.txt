@@ -1,0 +1,4 @@
+BH1750的SCL引脚连接IMX6ull-Mini平台的SCL引脚(P4的43号引脚)
+BH1750的SDA引脚连接IMX6ull-Mini平台的SDA引脚(P4的42号引脚)
+VCC 3.3
+GND GND
